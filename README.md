@@ -26,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/alessiopisanoweb/frontend-mentor-qr-code-component]
-- Live Site URL: [https://astonishing-swan-e22fcb.netlify.app/]
+- Live Site URL: [https://frontend-mentor-qr-code-component-ap.netlify.app/]
 
 ### Built with
 
